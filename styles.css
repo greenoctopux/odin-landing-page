@@ -213,3 +213,12 @@ h4{
     border-radius: 5px;
     cursor: pointer;
 }
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
