@@ -160,3 +160,56 @@ h3{
     justify-content: flex-end;
     margin-right: 300px;
 }
+
+.last-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+
+.blue-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 75%;
+    height: 30%;
+    background-color: #3882F6;
+}
+
+.left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 80%;
+    margin-left: 100px;
+}  
+
+h4{
+    font-size: 24px;
+    color: #ffffff;
+}
+
+.last-p{
+    font-size: 18px;
+    color: #ffffff;
+} 
+
+.right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20%;
+    margin-right: 100px;
+}
+
+.sign-up-last-section{
+    background-color: #3882F6;
+    color: #ffffff;
+    width: 100px;
+    height: 40px;
+    border: 3px solid #F9FAF8;
+    border-radius: 5px;
+    cursor: pointer;
+}
